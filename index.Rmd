@@ -1,1 +1,10 @@
-PM 606 Final
+---
+title: "PM 606 Final Project"
+author: "Edward Kim"
+output: 
+  html_document:
+      toc: TRUE
+      toc_float: TRUE
+---
+
+This is my PM 606 Final Website

@@ -1,1 +1,10 @@
-PM 606 Final
+name: "PM 606 Practicum"
+output_dir: "."
+navbar: 
+  title: "PM 606 Practicum"
+  left: 
+    - text: "Home"
+      href: PM-566-Practicum_Final_Edward_Kim.html 
+output: 
+  html_document: 
+    theme: cosmo
