@@ -4,7 +4,7 @@ navbar:
   title: "PM 606 Practicum"
   left: 
     - text: "Home"
-      href: PM-566-Practicum_Final_Edward_Kim.html 
+      href: index.html
 output: 
   html_document: 
     theme: cosmo
